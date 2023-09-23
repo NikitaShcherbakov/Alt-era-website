@@ -6,6 +6,7 @@
     "dev": "next dev --turbo",
     "build": "next build",
     "start": "next start",
+    "export": "next build",
     "lint": "next lint",
     "lint2": "eslint src/**/*.{js,jsx,ts,tsx,json}",
     "lint:fix2": "eslint --fix src/**/*.{js,jsx,ts,tsx,json}",
